@@ -5,7 +5,7 @@ Ro-Di Yuk (Roll Dice Yuk). adalah sebuah aplikasi game dadu sederhana yang beris
 tujuan dari permainan game ini adalah, jika Pemain mendapatkan nilai dadu yang sama dengan dadu yang dilempar oleh Bot, maka Pemain Menang
 dan skor menang akan tertampil di layar.
 
-==================================================================================
+====================================================================================
 Beberapa cuplikan gambar tentang aplikasi.
 
 ![depans](https://user-images.githubusercontent.com/63692319/132039552-14afa853-6e27-4100-85d1-a362894bfac5.jpg)
