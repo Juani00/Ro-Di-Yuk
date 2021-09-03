@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="author">Author: Juani</string>
+    <string name="about">1. Pemain terdiri dari 2 orang yaitu, Kamu dan Bot.\n\n
+                         2. permainan ditentukan dengan nilai dadu yang kamu
+                            lempar, jika kamu mendapatkan nilai dadu yang sama
+                            dengan nilai dadu milik Bot, maka Kamu Menang.\n\n
+
+                                            Author : Juani
+    </string>
+</resources>
